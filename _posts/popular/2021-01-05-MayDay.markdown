@@ -1,0 +1,14 @@
+---
+layout: post
+title: May Day
+date: 2021-05-01 21:00:00 +0530
+categories: popular
+#img: images/updates/swachhata_hi_seva.jpeg
+author-img: images/logo/iiitr.png
+author: IIIT Raichur
+duration: 1 week
+price: mailto:nss@iiitr.ac.in
+---
+On 1st of May, 2021. The volunteers of NSS unit of IIIT Raichur has participated
+in the online event "May Day", a day to tribute to the contribution of workers all
+over India. Organised events such as video making, poster making and infographics.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EBSB
+title: NSS
 ---
 
      <!-- Courses -->
@@ -14,7 +14,7 @@ title: EBSB
                          </div>
 
                          <div class="owl-carousel owl-theme owl-courses">
-							 
+
 					     <!-- post for loop starts -->
                          {% assign sortedCourses = site.categories['popular'] | reverse %}
                          {% for post in sortedCourses %}
@@ -53,7 +53,7 @@ title: EBSB
 
 
                          </div>
-                         
+
                </div>
           </div>
      </section>
@@ -70,12 +70,12 @@ title: EBSB
                          </div>
 
                          <div class="owl-carousel owl-theme owl-client">
-							 
-							 
+
+
 					     <!-- post for loop starts -->
                          {% assign sortedCourses = site.categories['upcoming_events'] | reverse %}
                          {% for post in sortedCourses %}
-							 
+
                               <div class="col-md-4 col-sm-4">
                                    <div class="item">
                                         <div class="tst-image">
@@ -88,12 +88,11 @@ title: EBSB
                                         <p>{{post.content}}</p>
                                    </div>
                               </div>
-                              
-                           {% endfor %}   
-                           
+
+                           {% endfor %}
+
                          </div>
 
                </div>
           </div>
-     </section> 
-
+     </section>

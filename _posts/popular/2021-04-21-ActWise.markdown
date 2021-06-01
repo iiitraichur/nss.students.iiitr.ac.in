@@ -1,0 +1,13 @@
+---
+layout: post
+title: Act wise, Save Life
+date: 2021-04-21 21:00:00 +0530
+categories: popular
+#img: images/updates/swachhata_hi_seva.jpeg
+author-img: images/logo/iiitr.png
+author: IIIT Raichur
+duration: 1 week
+price: mailto:nss@iiitr.ac.in
+---
+On 21st of April, 2021. Volunteers have participated in the online event "Act wise, Save Life",
+ Where volunteers are encouraged to make a flowchart of steps involved in the first aid treatment.
