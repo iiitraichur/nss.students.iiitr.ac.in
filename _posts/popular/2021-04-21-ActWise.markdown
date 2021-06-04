@@ -3,7 +3,7 @@ layout: post
 title: Act wise, Save Life
 date: 2021-04-21 21:00:00 +0530
 categories: popular
-#img: images/updates/swachhata_hi_seva.jpeg
+img: images/updates/AWSL.jpg
 author-img: images/logo/iiitr.png
 author: IIIT Raichur
 duration: 1 week

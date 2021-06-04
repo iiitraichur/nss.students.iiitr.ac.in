@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swachhata hi seva
-date:   2020-10-17 21:00:00 +0530
+date:   2019-10-17 21:00:00 +0530
 categories: popular
 img: images/updates/swachhata_hi_seva.jpeg
 author-img: images/logo/iiitr.png
