@@ -32,10 +32,12 @@ title: NSS
 
                                              <div class="courses-detail">
                                                   <h3><a href="{{ post.url | absolute_url }}">{{post.title}}</a></h3>
-                                                  <p>{{post.content | strip_html | truncate: 90}} {%- if post.content -%}<a href="{{ post.url | absolute_url }}"> more</a>{%- endif -%}</p>
+                                                  <p>{{post.content}}
+                                                    <!-- | strip_html {%- if post.content -%}<a href="{{ post.url | absolute_url }}"> more</a>{%- endif -%} -->
+                                                  </p>
                                              </div>
 
-                                             <div class="courses-info">
+                                             <!-- <div class="courses-info">
                                                   <div class="courses-author">
                                                        <img src="{{post.author-img}}" class="img-responsive" alt="">
                                                        <span>{{post.author}}</span>
@@ -43,7 +45,7 @@ title: NSS
                                                   <div class="courses-price">
                                                        <a href="{{post.price}}"><span>Contact</span></a>
                                                   </div>
-                                             </div>
+                                             </div> -->
                                         </div>
                                    </div>
                               </div>
@@ -60,7 +62,7 @@ title: NSS
 
 
      <!-- TESTIMONIAL -->
-     <section id="testimonial">
+     <!-- <section id="testimonial">
           <div class="container">
                <div class="row">
 
@@ -69,11 +71,11 @@ title: NSS
                               <h2>Events<small>The events of upcoming time</small></h2>
                          </div>
 
-                         <div class="owl-carousel owl-theme owl-client">
+                         <div class="owl-carousel owl-theme owl-client"> -->
 
 
 					     <!-- post for loop starts -->
-                         {% assign sortedCourses = site.categories['upcoming_events'] | reverse %}
+                         <!-- {% assign sortedCourses = site.categories['upcoming_events'] | reverse %}
                          {% for post in sortedCourses %}
 
                               <div class="col-md-4 col-sm-4">
@@ -87,12 +89,12 @@ title: NSS
                                         </div>
                                         <p>{{post.content}}</p>
                                    </div>
-                              </div>
+                              </div> -->
 
-                           {% endfor %}
+                           <!-- {% endfor %}
 
                          </div>
 
                </div>
           </div>
-     </section>
+     </section> -->
