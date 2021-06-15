@@ -3,7 +3,7 @@ layout: post
 title: National Education Day
 date: 2020-11-11 21:00:00 +0530
 categories: popular
-img: images/updates/NED.png
+img: images/updates/NED.webp
 author-img: images/logo/iiitr.png
 author: IIIT Raichur
 duration: 1 week

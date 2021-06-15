@@ -3,7 +3,7 @@ layout: post
 title: Elimination of Single use of Plastic
 date: 2021-04-18 21:00:00 +0530
 categories: popular
-img: images/updates/ESUP.png
+img: images/updates/ESUP.webp
 author-img: images/logo/iiitr.png
 author: IIIT Raichur
 duration: 1 week

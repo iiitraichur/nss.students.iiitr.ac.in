@@ -3,7 +3,7 @@ layout: post
 title: Constitution Day
 date: 2020-11-26 21:00:00 +0530
 categories: popular
-img: images/updates/NCD.png
+img: images/updates/NCD.webp
 author-img: images/logo/iiitr.png
 author: IIIT Raichur
 duration: 1 week

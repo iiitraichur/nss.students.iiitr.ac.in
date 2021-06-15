@@ -3,7 +3,7 @@ layout: post
 title: Swachhata hi seva
 date:   2019-10-17 21:00:00 +0530
 categories: popular
-img: images/updates/swachhata_hi_seva.jpeg
+img: images/updates/swachhata_hi_seva.webp
 author-img: images/logo/iiitr.png
 author: IIIT Raichur
 duration: 3 Hours
