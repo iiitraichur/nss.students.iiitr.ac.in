@@ -3,7 +3,7 @@ layout: post
 title: Plantation Drive
 date:   2020-02-01 19:00:00 +0530
 categories: popular
-img: images/updates/plantation_drive.jpeg
+img: images/updates/plantation_drive.webp
 author-img: images/logo/iiitr.png
 author: IIIT Raichur
 duration: 1 Hours
