@@ -523,6 +523,8 @@ https://templatemo.com/tm-516-known
 
   .courses-image {
     background: linear-gradient(to right, #202020, #101010);
+    height: 400px;
+    overflow-x: hidden;
   }
 
   .courses-date {
