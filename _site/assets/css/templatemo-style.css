@@ -972,6 +972,10 @@ https://templatemo.com/tm-516-known
       padding: 2em;
     }
 
+    .navbar-brand{
+      width: 250px;
+    }
+
     .contact-image {
       margin-top: 0;
     }
